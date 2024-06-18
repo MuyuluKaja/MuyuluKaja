@@ -1,0 +1,4 @@
+- Hi, I'm @MuyuluKaja
+- I'm a Year 12 Student from the UK who studies Maths, Further Maths, Computer Science and Physics
+- I know Python, C#, Javascript
+- I'm currently learning C++ for an AI Project for my NEA
